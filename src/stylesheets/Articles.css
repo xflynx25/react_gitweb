@@ -1,0 +1,81 @@
+/* Set the body background color to a dark gray */
+body {
+    background-color: #333333;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  /* Define the styles for the article titles */
+  .article-title {
+    font-size: 2.5em;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+  }
+
+  .particular-article-title {
+    padding: .5em 0 0 0 ;
+  }
+  
+  /* Define the styles for the article meta information */
+  .article-meta {
+    font-size: 1em;
+    margin-bottom: 1em;
+    opacity: 0.8;
+  }
+  
+  /* Define the styles for the article summary */
+  .article-summary {
+    font-size: 1.2em;
+    line-height: 1.5;
+    margin-bottom: 2em;
+    background-color: #111a2e;
+  }
+
+  /* Define the styles for the article body */
+    .article-body {
+        font-size: 1.2em;
+        font-weight: 500;
+        line-height: 1.5;
+        color: #0f0f0f;
+        background-color: #9db0da;
+        margin-bottom: 2em;
+        text-align: left;
+    }
+  
+  /* Set the background color for the article summary and body */
+  .article-summary,
+  .article-body {
+    padding: 1em;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  /* Define the styles for the article container */
+  .article {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0em;
+    background-color: #222222;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    margin-bottom: 2em; /* add more margin between articles */
+  }
+  
+  /* Define the styles for the link to the full article */
+  .article-link {
+    display: block;
+    text-align: center;
+    color: #fff;
+    font-size: 1.2em;
+    text-decoration: none;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    padding: 0.5em 1em;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  /* Define the styles for the active link to the full article */
+  .article-link:hover {
+    background-color: #fff;
+    color: #333333;
+  }

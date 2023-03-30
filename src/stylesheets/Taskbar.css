@@ -1,0 +1,67 @@
+
+:root {
+  --taskbar-height: 70px;
+  --button-padding: 0px;
+  --button-font-size: 1em;
+  --button-background-image: url("../assets/img/taskbar_background.png");
+  --logo-height: calc(var(--button-height) * 1);
+}
+
+
+/* Set the body background color to a dark gray */
+body {
+  background-color: #857373;
+}
+
+/* Define the taskbar styles */
+.taskbar {
+  display: flex;
+  background-color: #500a0a;
+  color: #fff;
+  padding: 0px;
+  justify-content: space-between;
+  font-size: 1.2em;
+  width: 100%;
+  height: var(--taskbar-height);
+}
+
+/* Define a class for the shared taskbar item styles */
+.taskbar-item {
+  text-decoration: none;
+  padding: var(--button-padding);
+  flex: 1;
+  height: var(--taskbar-height);
+  line-height: var(--taskbar-height);
+  font-size: var(--button-font-size);
+  box-sizing: border-box; /* include padding and border in element's width and height */
+  border: 2px solid black; /* add a border for demonstration purposes */
+}
+
+/* Apply the taskbar-item class to the logo image */
+.logo-image {
+  margin-right: 0px;
+}
+
+/* Apply the taskbar-item class to the taskbar buttons */
+.taskbar-button {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: 16px 16px 16px #000000;
+  font-size: 26px;
+  font-weight: bold;
+  -webkit-text-stroke: 1px black;
+  text-align: center;
+  color: #ffffff;
+  background-image: var(--button-background-image);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 40%; /* or cover */
+  background-color: #670808;
+}
+
+/*font-size: 20px;*/
+
+/* Define the style for the active taskbar button */
+.active {
+  background-color: #6070c7;
+  /*background-color: rgba(255, 255, 255, 0.2);*/
+}

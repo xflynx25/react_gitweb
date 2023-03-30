@@ -1,0 +1,88 @@
+.randomimageai {
+    max-width: 60%;
+    margin: 0 auto;
+    padding: 2em 0em 0em 0em;
+  }
+  
+  .randomimageai img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+  }
+  
+  .quote-body {
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    line-height: 1.5;
+  }
+  
+.hangman-parent-container{
+  margin: 2em;
+}
+
+.quote-wrapper {
+  margin: 1em;
+  background-color: #1a1a1a;
+  font-family: "Impact", sans-serif;
+  font-size: 3rem;
+  padding: 2rem;
+  border: 5px solid rgb(78, 82, 31);
+  border-radius: 1rem;
+}
+
+.endmessage {
+  font-size: 1em;
+  color: black;
+}
+
+.quote-container {
+  padding: 2rem;
+  border: 5px solid black;
+}
+
+.quote-body {
+  font-family: 'Roboto Slab', serif;
+  font-size: 2rem;
+  font-style: italic;
+  font-weight: 400;
+  color: rgba(104, 245, 186, 0.664);
+  text-align: center;
+  line-height: 1.5;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+
+.quote-author {
+  font-style: normal;
+  font-size: 1.2rem;
+  margin-top: 1rem;
+  color: #666;
+}
+
+.title-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1a1a1a;
+  padding: 0.5em;
+  box-sizing: content-box;
+  border: 2px solid rgba(104, 245, 186, 0.664);
+}
+
+.title {
+  font-family: "Impact", sans-serif;
+  font-size: 6rem;
+  color: rgba(104, 245, 186, 0.664);
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+}
+
+.homepage{
+  padding: 1em 0.5em 0em 0.5em;
+}
+

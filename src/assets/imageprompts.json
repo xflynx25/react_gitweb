@@ -1,0 +1,56 @@
+{
+    "images": [
+        {
+            "id": "im1.jpg",
+            "prompt": "yellow fever"
+        },
+        {
+            "id": "im2.jpg",
+            "prompt": "cholera"
+        },
+        {
+            "id": "zenmars.png",
+            "prompt": "A serene Zen garden on Mars, complete with red sand, alien plants, and a meditating astronaut"
+        },
+        {
+            "id": "earthreclaim.png",
+            "prompt": "A post-apocalyptic world where nature has reclaimed the Earth, with lush forests growing through the remains of once-great cities"
+        },
+        {
+            "id": "egyptamusement.png",
+            "prompt": "An ancient Egyptian-themed amusement park, complete with sphinxes, pyramids, and mummy mascots riding roller coasters"
+        },
+        {
+            "id": "tokyovenicefusion.png",
+            "prompt": "A futuristic fusion of Venice and Tokyo, where gondolas navigate neon-lit canals beneath a sky filled with holographic advertisements"
+        },
+        {
+            "id": "edenphones.png",
+            "prompt": "A playful reinterpretation of the Garden of Eden, inhabited by modern-day technology and gadgets growing on trees"
+        },
+        {
+            "id": "animals1.png",
+            "prompt": "A bustling animal metropolis where different species live and work together, dressed in clothing and using technology tailored to their unique needs"
+        },
+        {
+            "id": "animals2.png",
+            "prompt": "A bustling animal metropolis where different species live and work together, dressed in clothing and using technology tailored to their unique needs"
+        },
+        {
+            "id": "victoriandinosaur.png",
+            "prompt": "A Victorian-era city inhabited by dinosaurs dressed in period clothing, partaking in daily activities such as riding penny-farthings and attending social events"
+        },
+        {
+            "id": "hiddencity1.png",
+            "prompt": "A hidden utopian city nestled within a massive, hollowed-out mountain, powered by an enormous glowing crystal at its core"
+        },
+        {
+            "id": "hiddencity2.png",
+            "prompt": "A hidden utopian city nestled within a massive, hollowed-out mountain, powered by an enormous glowing crystal at its core"
+        },
+        {
+            "id": "hiddencity3.png",
+            "prompt": "A hidden utopian city nestled within a massive, hollowed-out mountain, powered by an enormous glowing crystal at its core"
+        }
+    ]
+}
