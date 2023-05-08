@@ -1,0 +1,5 @@
+[
+    { "classname": "Class A", "year": 2020, "subject": "Math", "how_complete": "Complete" },
+    { "classname": "Class B", "year": 2021, "subject": "Science", "how_complete": "Incomplete" },
+    { "classname": "Class C", "year": 2022, "subject": "English", "how_complete": "Complete" }
+  ]

@@ -1,0 +1,78 @@
+.academics {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    padding-top: 1rem;
+    position: relative;
+  }
+  
+  .selector {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    z-index: 1;
+    background-color: #857373;
+    padding: 5px;
+    border-radius: 5px;
+  }
+  
+  .selector p {
+    font-family: Arial, sans-serif;
+    font-size: 1em;
+    color: #300505;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .selector button {
+    background-color: #4CAF50;
+    color: #300505;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+  }
+
+  
+  
+  .section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+  }
+  
+  .rectangle {
+    background-color: rgba(240, 240, 240, 0.7);
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    margin: 10px;
+    min-width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  h3 {
+    font-family: Arial, sans-serif;
+    font-size: 1.2em;
+    color: #333;
+    text-decoration: underline;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-family: Arial, sans-serif;
+    font-size: 1em;
+    color: #394b3a;
+    margin-bottom: 5px;
+  }
+  
