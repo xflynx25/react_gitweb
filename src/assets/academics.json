@@ -1,5 +1,83 @@
 [
-    { "classname": "Class A", "year": 2020, "subject": "Math", "how_complete": "Complete" },
-    { "classname": "Class B", "year": 2021, "subject": "Science", "how_complete": "Incomplete" },
-    { "classname": "Class C", "year": 2022, "subject": "English", "how_complete": "Complete" }
+    { "classname": "Solving Big Engineering Problems", "year": 2019, "subject": "3-Unit", "how_complete": "Complete", "number": 1.008 },
+    { "classname": "Climate and Life", "year": 2019, "subject": "3-Unit", "how_complete": "Complete", "number": "12.A01" },
+    { "classname": "Physics I - Mechanics", "year": 2019, "subject": "Physics", "how_complete": "Complete", "number": 8.012 },
+    { "classname": "Multivariable Calculus", "year": 2019, "subject": "Math", "how_complete": "Complete", "number": 18.022 },
+    { "classname": "Science Writing and New Media", "year": 2019, "subject": "Humanities", "how_complete": "Complete", "number": "21W.031" },
+    { "classname": "Differential Equations", "year": 2019, "subject": "Math", "how_complete": "Complete", "number": 18.03 },
+
+    { "classname": "Intro Materials Science and Engineering", "year": 2020, "subject": "3-Unit", "how_complete": "Complete", "number": 3.001 },
+    { "classname": "Intro Programming in Python", "year": 2020, "subject": "CS", "how_complete": "Prior Credit", "number": 6.0001 },
+    { "classname": "Cicuits and Electronics", "year": 2020, "subject": "EE", "how_complete": "Complete", "number": 6.002 },
+    { "classname": "Fundamentals of Programming", "year": 2020, "subject": "CS", "how_complete": "Complete", "number": 6.009 },
+    { "classname": "Physics II - Electromagnetism", "year": 2020, "subject": "Physics", "how_complete": "Complete", "number": 8.022 },
+    { "classname": "Signal Processing", "year": 2020, "subject": "EE", "how_complete": "Complete", "number": 6.003 },
+    { "classname": "Medieval Economic Comparative History", "year": 2020, "subject": "Humanities", "how_complete": "Complete", "number": 14.70 },
+    
+    { "classname": "NEET Seminar (Build 3d Printer)", "year": 2020, "subject": "3-Unit", "how_complete": "Complete", "number": 3.006 },
+    { "classname": "Intro Materials and Mechanical Design", "year": 2020, "subject": "Engineering", "how_complete": "Complete", "number": 3.007 },
+    { "classname": "Structure of Materials", "year": 2020, "subject": "Engineering", "how_complete": "Complete", "number": 3.010 },
+    { "classname": "Intro Symbolic and Math Computing (Mathematica)", "year": 2020, "subject": "Engineering", "how_complete": "Complete", "number": 3.019 },
+    { "classname": "Intro Machine Learning", "year": 2020, "subject": "CS", "how_complete": "Complete", "number": 6.036 },
+    { "classname": "Physics III - Waves and Vibrations", "year": 2020, "subject": "Physics", "how_complete": "Complete", "number": 8.03 },
+    { "classname": "Relativity", "year": 2020, "subject": "Physics", "how_complete": "Complete", "number": 8.033 },
+    { "classname": "Intro Neuroscience", "year": 2020, "subject": "STEM Other", "how_complete": "Audit Complete", "number": 9.01 },
+    { "classname": "Discrete Applied Math", "year": 2020, "subject": "Math", "how_complete": "Complete", "number": "18.200A" },
+    { "classname": "Probability and Random Variables", "year": 2020, "subject": "Math", "how_complete": "Complete", "number": 18.600 },
+
+    { "classname": "Intro Quantum Computing", "year": 2021, "subject": "EECS", "how_complete": "Audit Complete", "number": "6.S089"},
+    { "classname": "Intro Deep Learning", "year": 2021, "subject": "CS", "how_complete": "Audit Complete", "number": "6.S191"},
+    { "classname": "Classical Mechanics II", "year": 2021, "subject": "Physics", "how_complete": "Complete", "number": 8.223},
+    { "classname": "Russian I", "year": 2021, "subject": "Humanities", "how_complete": "Complete", "number": "21G.611"},
+    { "classname": "Intro Algorithms", "year": 2021, "subject": "CS", "how_complete": "Audit Complete", "number": 6.006},
+
+    { "classname": "Organic Chemistry I", "year": 2021, "subject": "STEM Other", "how_complete": "Audit Complete", "number": 5.12},
+    { "classname": "Design & Analysis of Algorithms", "year": 2021, "subject": "CS", "how_complete": "Complete", "number": 6.046},
+    { "classname": "Embedded Systems", "year": 2021, "subject": "EECS", "how_complete": "Complete", "number": 6.08},
+    { "classname": "Quantum Physics I", "year": 2021, "subject": "Physics", "how_complete": "Complete", "number": 8.04},
+    { "classname": "Fundamentals of Statistics", "year": 2021, "subject": "Math", "how_complete": "Complete", "number": 18.650},
+    { "classname": "Russian II", "year": 2021, "subject": "Humanities", "how_complete": "Complete", "number": "21G.612"},
+
+    { "classname": "Feedback System Design (G)", "year": 2021, "subject": "EE", "how_complete": "Complete", "number": 6.320},
+    { "classname": "Quantum Physics II", "year": 2021, "subject": "Physics", "how_complete": "Complete", "number": 8.05},
+    { "classname": "Experimental Physics I", "year": 2021, "subject": "Physics", "how_complete": "Complete", "number": 8.13},
+    { "classname": "Harmony and Counterpoint", "year": 2021, "subject": "Humanities", "how_complete": "Audit Complete", "number": "Video Series"},
+    { "classname": "Interactive Music Systems", "year": 2021, "subject": "Humanities", "how_complete": "Complete", "number": "21M.385"},
+
+    { "classname": "NEET Seminar (Advanced Materials Machines)", "year": 2022, "subject": "3-Unit", "how_complete": "Complete", "number": 3.006},
+    { "classname": "Microcomputer Project Lab", "year": 2022, "subject": "EECS", "how_complete": "Complete", "number": 6.115},
+    { "classname": "Underactuated Robotics (G)", "year": 2022, "subject": "EECS", "how_complete": "Complete", "number": 6.832},
+    { "classname": "Statistical Physics I", "year": 2022, "subject": "Physics", "how_complete": "Complete", "number": 8.044},
+    { "classname": "Electronic Music Composition I", "year": 2022, "subject": "Humanities", "how_complete": "Complete", "number": "21M.361"},
+
+    { "classname": "NEET Seminar (Climate and Sustainability Systems)", "year": 2022, "subject": "3-Unit", "how_complete": "Complete", "number": 3.006},
+    { "classname": "Intro Chemistry", "year": 2022, "subject": "STEM Other", "how_complete": "Complete", "number": 5.111},
+    { "classname": "Intro Biology", "year": 2022, "subject": "STEM Other", "how_complete": "Complete", "number": 7.012},
+    { "classname": "Anthro-Engineering: Decarbonizing Ulaanbaatar", "year": 2022, "subject": "Humanities", "how_complete": "Complete", "number": "21A.S01"},
+    { "classname": "Popular Musics of the World", "year": 2022, "subject": "Humanities", "how_complete": "Complete", "number": "21M.294"},
+    { "classname": "Laptop Ensemble", "year": 2022, "subject": "Humanities", "how_complete": "Complete", "number": "21M.470"},
+
+    { "classname": "Signals, Systems, and Inference", "year": 2023, "subject": "EE", "how_complete": "Enrolled", "number": 6.3010},
+    { "classname": "Computer Systems Security", "year": 2023, "subject": "CS", "how_complete": "Enrolled", "number": 6.5660},
+    { "classname": "Advances in Computer Vision (G)", "year": 2023, "subject": "CS", "how_complete": "Enrolled", "number": 6.8301},
+    { "classname": "Intro to Urban Design", "year": 2023, "subject": "Humanities", "how_complete": "Enrolled", "number": 11.001},
+    { "classname": "International Housing Econ & Finance", "year": 2023, "subject": "STEM Other", "how_complete": "Enrolled", "number": 11.145},
+    { "classname": "Laptop Ensemble", "year": 2023, "subject": "Humanities", "how_complete": "Enrolled", "number": "21M.470"},
+
+    { "classname": "Macroeconomics", "year": 2018, "subject": "STEM Other", "how_complete": "Complete", "number": "High School AP"},
+    { "classname": "Microeconmics", "year": 2018, "subject": "STEM Other", "how_complete": "Complete", "number": "High School AP"},
+    { "classname": "US & World Government", "year": 2018, "subject": "Humanities", "how_complete": "Complete", "number": "High School AP"},
+
+    { "classname": "Networks: A Top Down Approach", "year": 2020, "subject": "EECS", "how_complete": "Audit Complete", "number": "Textbook"},
+    { "classname": "Linear Algebra", "year": 2021, "subject": "Math", "how_complete": "Audit Complete", "number": 18.06},
+    { "classname": "Intro Black Studies", "year": 2020, "subject": "Humanities", "how_complete": "Audit Complete", "number": 24.908},
+    
+    { "classname": "Synthesis and Design of Materials", "year": 2021, "subject": "Engineering", "how_complete": "Dropped Halfway", "number": 3.023},
+    { "classname": "Thermodynamics of Materials", "year": 2021, "subject": "Engineering", "how_complete": "Dropped Halfway", "number": 3.020},
+    { "classname": "Advanced Algorithms", "year": 2022, "subject": "CS", "how_complete": "Dropped Halfway", "number": 6.5210},
+
+    { "classname": "Nanoelectronics and Computing Systems", "year": 2023, "subject": "EE", "how_complete": "Actively Auditing", "number": 6.2500},
+    { "classname": "Cryptography", "year": 2023, "subject": "Math", "how_complete": "Actively Auditing", "number": 6.5610},
+    { "classname": "Computation Stuctures", "year": 2022, "subject": "EECS", "how_complete": "Actively Auditing", "number": 6.004}
+
   ]

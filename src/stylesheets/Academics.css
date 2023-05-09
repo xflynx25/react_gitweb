@@ -7,6 +7,11 @@
     position: relative;
   }
   
+  .selectors-container {
+    display: flex;
+    gap: 1rem;
+  }
+  
   .selector {
     display: flex;
     gap: 0.5rem;
@@ -15,6 +20,14 @@
     background-color: #857373;
     padding: 5px;
     border-radius: 5px;
+  }
+  
+  .selector.selector-sort button {
+    background-color: #4CAF50;
+  }
+  
+  .selector.selector-display button.display-btn {
+    background-color: #945653; /* Red background color */
   }
   
   .selector p {
@@ -27,7 +40,6 @@
   }
   
   .selector button {
-    background-color: #4CAF50;
     color: #300505;
     padding: 10px 24px;
     text-align: center;
@@ -38,7 +50,6 @@
     cursor: pointer;
     border-radius: 12px;
   }
-
   
   
   .section {
