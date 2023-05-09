@@ -64,9 +64,9 @@
     { "classname": "International Housing Econ & Finance", "year": 2023, "subject": "STEM Other", "how_complete": "Enrolled", "number": 11.145},
     { "classname": "Laptop Ensemble", "year": 2023, "subject": "Humanities", "how_complete": "Enrolled", "number": "21M.470"},
 
-    { "classname": "Macroeconomics", "year": 2018, "subject": "STEM Other", "how_complete": "Complete", "number": "High School AP"},
-    { "classname": "Microeconmics", "year": 2018, "subject": "STEM Other", "how_complete": "Complete", "number": "High School AP"},
-    { "classname": "US & World Government", "year": 2018, "subject": "Humanities", "how_complete": "Complete", "number": "High School AP"},
+    { "classname": "Macroeconomics", "year": 2018, "subject": "STEM Other", "how_complete": "Prior Credit", "number": "High School AP"},
+    { "classname": "Microeconmics", "year": 2018, "subject": "STEM Other", "how_complete": "Priot Credit", "number": "High School AP"},
+    { "classname": "US & World Government", "year": 2018, "subject": "Humanities", "how_complete": "Prior Credit", "number": "High School AP"},
 
     { "classname": "Networks: A Top Down Approach", "year": 2020, "subject": "EECS", "how_complete": "Audit Complete", "number": "Textbook"},
     { "classname": "Linear Algebra", "year": 2021, "subject": "Math", "how_complete": "Audit Complete", "number": 18.06},
