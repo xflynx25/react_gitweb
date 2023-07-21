@@ -1,0 +1,59 @@
+[
+    {
+      "title": "Memory Center (django+flutter)",
+      "folder": "MemoryCenter",
+      "theme": "projects",
+      "captions": ["Home page. View your own cards or your friend's",
+                    "Profile page. All your data can be found here. Check to see how you are progressing on different items.",
+                     "Google Translate input method - period seperated list.", 
+                     "Study-mode, mid-transition. User just got the russian word for onion correct, and swiped right."],
+      "main_caption": "Listening to a podcast on a train back from Germany, I heard an ex-kgb agent describe his method for language learning. It captivated me, and a year later, I found time to build out an app to replicate this. Improving the memorization process can very useful beyond just language learning. I set out to solve 2 main problems with other apps like Goodnotes or Quizlet: (1) Input time should be as small as possible (2) The user should not have to worry about inventing/managing the study process. The result is a cross-platform app that has multiple card input methods. The data organization is intuitive, with groupings of topics, which can be studied simultaneously in collections. It is easy to toggle this on or off, depending on what you want to work on that day. The studying is automated, different cards will be retrieved at different rates dependent on your success. When a card is retired, it will be reintroduced after a period to make sure you did not forget. Lastly, there are social aspects, where you can collaborate on topics/collections. It is currently being beta-tested by family and close friends.",
+      "links": [],
+      "local_links": [], 
+      "date": "2023-07-01"
+    },
+    {
+      "title": "Supergroups White Paper",
+      "folder": "Supergroups",
+      "theme": "projects",
+      "captions": ["Home page. View your own cards or your friend's",
+                    "Profile page. All your data can be found here. Check to see how you are progressing on different items.",
+                     "Google Translate input method - period seperated list.", 
+                     "Study-mode, mid-transition. User just got the russian word for onion correct, and swiped right."],
+      "main_caption": "Listening to a podcast on a train back from Germany, I heard an ex-kgb agent describe his method for language learning. It captivated me, and a year later, I found time to build out an app to replicate this. Improving the memorization process can very useful beyond just language learning. I set out to solve 2 main problems with other apps like Goodnotes or Quizlet: (1) Input time should be as small as possible (2) The user should not have to worry about inventing/managing the study process. The result is a cross-platform app that has multiple card input methods. The data organization is intuitive, with groupings of topics, which can be studied simultaneously in collections. It is easy to toggle this on or off, depending on what you want to work on that day. The studying is automated, different cards will be retrieved at different rates dependent on your success. When a card is retired, it will be reintroduced after a period to make sure you did not forget. Lastly, there are social aspects, where you can collaborate on topics/collections. It is currently being beta-tested by family and close friends.",
+      "links": [],
+      "local_links": [], 
+      "date": "2023-06-28"
+    },
+
+    {
+      "title": "Title 2",
+      "folder": "folder2",
+      "theme": "projects",
+      "captions": ["Caption 1", "Caption 2", "Caption 3", "Caption 4"],
+      "main_caption": "Main caption here",
+      "links": [],
+      "local_links": [], 
+      "date": "2021-01-01"
+    },
+    {
+      "title": "Title 3",
+      "folder": "folder3",
+      "theme": "projects",
+      "captions": ["Caption 1", "Caption 2", "Caption 3", "Caption 4"],
+      "main_caption": "Main caption here",
+      "links": [],
+      "local_links": [], 
+      "date": "2022-01-01"
+    },
+    {
+      "title": "Title 4",
+      "folder": "folder4",
+      "theme": "projects",
+      "captions": ["Caption 1", "Caption 2", "Caption 3", "Caption 4"],
+      "main_caption": "Main caption here",
+      "links": [],
+      "local_links": [], 
+      "date": "2022-01-01"
+    }
+]

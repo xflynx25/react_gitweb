@@ -1,0 +1,82 @@
+.about {
+    text-align: center;
+    padding-top: 50px; /* adjust padding on top of the page */
+  }
+  
+  .about-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start; /* align items to the top */
+    padding: 0 40px; /* provide padding on the sides */
+  }
+  
+  .about-header-img {
+    width: 200px;
+  }
+  
+  .about-name {
+    color: #cfddec;
+    text-decoration: underline;
+    font-weight: bold;
+  }
+  
+  .about-intro {
+    padding: 20px 50px; /* provides some padding on the sides */
+  }
+  
+  .links-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .about-divider {
+    border-top: 1px dotted black;
+    margin: 20px 0;
+  }
+
+  .theme-button{
+  cursor: pointer;
+  transition: transform 0.1s;
+  }
+  .theme-button:hover {
+    transform: scale(1.01);
+  }
+  
+  
+  .portfolio-item-img {
+    width: 100%;
+  }
+  
+
+  .portfolio {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px; /* Add space between items */
+  }
+  
+  .portfolio-item {
+    position: relative;
+    width: 23%; /* Adjust this value for 4 items per row, considering gap */
+    margin-bottom: 20px;
+    cursor: pointer;
+    transition: transform 0.3s;
+  }
+  
+  .portfolio-item:hover {
+    transform: scale(1.05);
+  }
+
+
+
+
+  .portfolio-item-title {
+    text-align: center;
+  }
+  
+
+  p {
+    color: #b88787; /* You can adjust this color as needed */
+  }

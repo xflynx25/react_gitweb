@@ -1,0 +1,93 @@
+/* PortfolioItemPage.css */
+
+.portfolio-item-page {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.back-button {
+  margin-top: 20px; /* Add some space above the button */
+  padding: 10px;
+  font-size: 20px;
+  background-color: #aaa; /* Adjust the color as needed */
+  color: #fff; /* Adjust the color as needed */
+  border: none;
+  border-radius: 5px; /* Makes the button rounder */
+}
+
+.images-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.image-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.image-wrapper img {
+  width: 100%;
+  height: auto;
+}
+
+.caption {
+  font-size: 1em; /* Smaller font-size for normal captions */
+  padding: 5px; /* Less padding for normal captions */
+}
+
+.main-caption {
+  font-size: 1.5em;
+  padding: 15px 40px;
+}
+
+.embeddings {
+  padding: 10px 0px 50px 0px;
+}
+
+.links-container {
+  padding: 10px 0px 10px 0px;
+}
+
+
+.footer-line {
+  display: none; /* remove line if not needed */
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px 0; /* add top padding */
+  width: 100%; /* stretch across the full bottom */
+  background-color: #92cdec;
+}
+
+.footer-button, .back-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 10px;
+  padding: 10px;
+  background-color: #aaa;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+  white-space: nowrap;
+}
+
+.footer-button{
+  cursor: pointer;
+  transition: transform 0.2s;
+  }
+.footer-button:hover {
+  transform: scale(1.15);
+}

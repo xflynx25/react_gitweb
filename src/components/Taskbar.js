@@ -13,10 +13,10 @@ function Taskbar() {
 
   return (
     <div className="taskbar">
-      <Link to="/">
+      <Link to="/game">
         <img src={logo} alt="SadLogo" className="logo-image taskbar-item" />
       </Link>
-      <Link to="/about" className={getLinkClassName('/about')}>
+      <Link to="/" className={getLinkClassName('/')}>
         About
       </Link>
       <Link to="/resume" className={getLinkClassName('/resume')}>

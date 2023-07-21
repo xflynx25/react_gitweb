@@ -10,6 +10,7 @@ import Academics from './pages/Academics';
 import Articles from './pages/Articles';
 import Wiki from './pages/Wiki';
 import Article from './components/Article';
+import PortfolioItemPage from './pages/PortfolioItemPage';
 
 function App() {
   return (
@@ -19,8 +20,9 @@ function App() {
         <Taskbar />
         
         <Routes>
-          <Route path="/" element={<Home />}></Route>
-          <Route path="/about" element={<About />}></Route>
+          <Route path="/game" element={<Home />}></Route>
+          <Route path="/" element={<About />}></Route>
+          <Route path="/about/:folder" element={<PortfolioItemPage />}></Route>
           <Route path="/resume" element={<Resume />}></Route>
           <Route path="/academics" element={<Academics />}></Route>
           <Route path="/articles" element={<Articles />}></Route>
