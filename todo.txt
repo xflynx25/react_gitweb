@@ -5,7 +5,7 @@ MIT Physics
 Crusoe Internship
 CEE Research
 RespiQ
-Photonics AI 
+[] Photonics AI 
 
 
 Projects:
@@ -15,14 +15,14 @@ Website - recursive
 Fantasy Premier League AI 
 Brachiation Robot 832
 Canvas Scraper
-Mongolia Project 
+[] Mongolia Project 
 Small Random Projects - Armut, Birthday Party Synchronizer, 2 more (dusha? )
 
 
 Competitions: 
 Soccer 
 Chess 
-Half Marathon
+Running / Half Marathon
 Math 
 
 Life: 
@@ -31,5 +31,5 @@ Travel
 Reading 
 Family
 Phi Sig (scholarship, brotherhood)
-Music 
+[] Music 
 Trick Videos 

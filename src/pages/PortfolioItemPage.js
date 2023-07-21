@@ -82,13 +82,13 @@ function PortfolioItemPage() {
             </div>
         ))}
         </div>
-
         <div className="embeddings">
-        {item.local_links.map((link, index) => (
-            <img key={index} src={require(`../assets/${link}`)} alt={`Local Image ${index + 1}`} />
-        ))}
+          {item.local_links.map((link, index) => (
+            <object key={index} data={require(`../assets/${link}`)} type="application/pdf" width="100%" height="600px">
+              <p>It appears you don't have a PDF plugin for this browser. It's ok ... you can <a href={require(`../assets/${link}`)}>click here to download the PDF file.</a></p>
+            </object>
+          ))}
         </div>
-
         <div className="footer">
             <button className="nav-button footer-button" onClick={navigateToPreviousItem}>
                 <span className="button-symbol">&lt;</span>

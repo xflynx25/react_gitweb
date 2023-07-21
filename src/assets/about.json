@@ -12,47 +12,59 @@
       "local_links": [], 
       "date": "2023-07-01"
     },
+
     {
       "title": "Supergroups White Paper",
       "folder": "Supergroups",
       "theme": "projects",
-      "captions": ["Home page. View your own cards or your friend's",
-                    "Profile page. All your data can be found here. Check to see how you are progressing on different items.",
-                     "Google Translate input method - period seperated list.", 
-                     "Study-mode, mid-transition. User just got the russian word for onion correct, and swiped right."],
-      "main_caption": "Listening to a podcast on a train back from Germany, I heard an ex-kgb agent describe his method for language learning. It captivated me, and a year later, I found time to build out an app to replicate this. Improving the memorization process can very useful beyond just language learning. I set out to solve 2 main problems with other apps like Goodnotes or Quizlet: (1) Input time should be as small as possible (2) The user should not have to worry about inventing/managing the study process. The result is a cross-platform app that has multiple card input methods. The data organization is intuitive, with groupings of topics, which can be studied simultaneously in collections. It is easy to toggle this on or off, depending on what you want to work on that day. The studying is automated, different cards will be retrieved at different rates dependent on your success. When a card is retired, it will be reintroduced after a period to make sure you did not forget. Lastly, there are social aspects, where you can collaborate on topics/collections. It is currently being beta-tested by family and close friends.",
-      "links": [],
+      "captions": ["An example of how the group stage is organized",
+                    "The full tournament setup",
+                     "How a sample group stage could play out", 
+                     "Simulated probabilities for the final group positions, based on historical performances in recent World Cups."],
+      "main_caption": "In Fall 2022, while FIFA was debating in which way should they break the symmetry for the expanded 48 team World Cup 2026, my friend and I struck upon an elegant solution. There exists a natural extension for 3*2^N tournaments, that maintains several important properties of the 2^N tournaments which we are so used to. When FIFA went ahead with a proposition that is sure to encourage undesirable behavior like match fixing and temporal advantages - we wrote this paper, and have since been trying to promote it. We also believe there is a ripe field of combinatorics for sports and competitions that we hope will blossom in the near future.",
+      "links": [["Read the paper", "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.dropbox.com%2Fs%2F07wialzpkpmo69r%2FSupergroupsPaper.pdf%3Ffbclid%3DIwAR1Yp5ivJMwqOwIrm67NlU9kRJjMh2NHDX29ZVmfaRsBRtnsisakDgEW8xk&h=AT2dtlIOQDmR00i4OOwNjH_sK6AQaer0HKlrqpwQEUOnrEOQyRV7_QGaVKxkLqdizyZI3FE6PQRVsaGWxZ0R-GFcg_FugKGgM96h8Pa2ArUNWnjGrNEuOlDxln_hswXNlZpu&__tn__=-UK-R&c[0]=AT1by3bAQrpzzzWFAT1bChZ3Fa9LZmNhPubcCGILV6ZBjrEy6lxaJkqEFQnePFfa7sZIVbt7Lov-1UyjurEL7rMPNDsjkELowj2ac6OBUOAYAb3hl3Ryhi8sBHx4uPxmgqMFOeosyIw6jGc0nbw2eVKllOr1-Nv9jdBNRPjBLv0U8khjSvc"]],
       "local_links": [], 
       "date": "2023-06-28"
     },
 
     {
-      "title": "Title 2",
-      "folder": "folder2",
+      "title": "Ulaanbaatar Heating Initiative - AnthroEngineering",
+      "folder": "Mongolia",
       "theme": "projects",
-      "captions": ["Caption 1", "Caption 2", "Caption 3", "Caption 4"],
-      "main_caption": "Main caption here",
+      "captions": ["Sensor design in MUST (Mongolia University of Science and Technology)", 
+                    "Coal-fired powerplants in the background. Foreground: typical perimeter district, road conditions make distribution a complex engineering challenge.", 
+                    "Overnight stay in a ger district. Good to see the central role of the coal stove in life, how difficult it might be to get rid of the centerpiece of the house.", 
+                    "Forum with over 100 students and local residents. Fielded a productive Q&A."],
+      "main_caption": "This is a collaboration between MIT anthropology, MIT NEET CSS (climate and sustainability systems), NUM anthropology (National University of Mongolia), and MUST nuclear/chemical engineers (Mongolia Institute of Science and Technology). I was part of both MIT groups. The idea was to bring together an anthropological approach, to complement the engineering. This is in response to the numerous attempts to engineer Ulaanbaatar out of its coal-dependence and horrible air quality, that have failed miserably due to not taking into consideration the human factors - the side notes that are much more important than we often realize. In the fall of 2022 I took an Anthro-Engineering course, where we studied general anthropology, Mongolian anthropology, systems thinking, and engineering ideas for tackling the complex problem. My final paper is below: where we were tasked to each propose different interventions. The initial idea was to use a molten salt heat brick, heated by waste heat, and transported to the homes, in order to reduce on site coal burning. However, there are many logistical difficulties, and everyone is keeping an open mind about all the different potential avenues for change. In January, when temperatures regularly reach -40, we travelled to Mongolia for 10 days, meeting with stakeholders (government officials, entrepreneurs, community leaders, ger residents), and designing an experimental setup with the students there. In the spring, we continued to iterate the design with the help of increasing data, and maintained an ongoing collaboration with the MUST students.",
       "links": [],
-      "local_links": [], 
-      "date": "2021-01-01"
+      "local_links": ["21A_S01_Final_Project.pdf"], 
+      "date": "2023-01-15"
     },
+
     {
-      "title": "Title 3",
-      "folder": "folder3",
-      "theme": "projects",
-      "captions": ["Caption 1", "Caption 2", "Caption 3", "Caption 4"],
-      "main_caption": "Main caption here",
+      "title": "MIT Laptop Ensemble",
+      "folder": "LaptopEnsemble",
+      "theme": "life",
+      "captions": ["Live Coding at our MIT algorave Fall 2022", 
+                    "Paid performance for the MIT Infinite Gala fashion show", 
+                    "Javier playing the Theramin, to the crowds pleasure", 
+                    "Grant turning some knobs, looks like a frequency or waveshape adjustment."],
+      "main_caption": "I got involved with the Laptop Ensemble my senior year. We are a performance group, mostly focusing on live coding and modular synthesizers, although we are always experimenting with different technologies. Some students have done performances with light sensor instruments, vibration boxes, EEG interfacing, the theramin, and even a quad-oscillator self-built glove instrument. I learned a lot about building and debugging your own sound systems, and the art of live group performance. Notable performances include: Beautiful Machines event at ZuZu bar on Mass. Ave., the MIT Infinite Gala, a Harvard Musical Media Live Coding Concert, as well as many fun MIT concerts.",
       "links": [],
       "local_links": [], 
       "date": "2022-01-01"
     },
+
     {
-      "title": "Title 4",
-      "folder": "folder4",
-      "theme": "projects",
-      "captions": ["Caption 1", "Caption 2", "Caption 3", "Caption 4"],
-      "main_caption": "Main caption here",
-      "links": [],
+      "title": "Photonics AI - Visiting Researcher",
+      "folder": "photonicsai",
+      "theme": "work",
+      "captions": ["A highway with Yerevan in the background. Two of my close lab partners, who work with liquid crystals, turbulence, and optical computing.", 
+                    "Three experiments at once. Due to limited resources we must find innovative ways to overlap the equipment.", 
+                    "One-Week Regional Optics conference held at our university (Yerevan State University). Researchers from India, Iran, Russia, Armenia, Europe, presented on a wide range of photonics research.", 
+                    "Stones from a 1000+ year old church in the Armenian countryside."],
+      "main_caption": "In Summer 2023, I am researching for 10 weeks at Yerevan State University, PhotonicsAI Lab (Physics Department). It is a great collection of professionals, phd students, masters students, and undergrads, specializing in the synthesis of optics and liquid crystals. The physics of liquid crystals interests us for many reasons, both with its controllability in some cases to produce useful optical effects, as well as its chaotic structure which allows us to explore turbulence. We are working on projects like arbitrary matrix multiplication, post-turbulence reconstruction, and optical-systems-on-a-chip fabrication. My project in particular is an extension of my advisor's phd work, linked below. He has shown that optical reservoir computing has some effectiveness at predicting a 1D chaotic simulation, and has experimentally verified the runtime advantages. My work (with my co-researcher Vahagn), aims to go steps further. We want to predict actual chaos (liquid crystals), not simply simulated data. This work involves understanding and exploration of liquid crystal physics, data manipulation strategies, chaotic systems analysis for metrics, and general machine learning techniques. In addition to our main goal of implementing an optical reservoir computer for real chaotic data, I am also looking into ways we can formalize/standardize these often vague chaotic machine learning challenges, and working a lot in simulation.",
+      "links": [["Motivational Paper from my Advisor","https://journals.aps.org/prx/pdf/10.1103/PhysRevX.10.041037"]],
       "local_links": [], 
       "date": "2022-01-01"
     }

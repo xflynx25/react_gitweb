@@ -50,7 +50,7 @@ function About() {
             My academic goals are always to increase understanding of physics, mathematics, and the ways to design systems in this world. 
             But in my free time, I enjoy reading, programming, teaching, physical competition, performing music, taking courses, travelling, trying new things, being outside, and quality time with others. 
           <br/><br/>
-            Scroll down to see some snapshots of things I have been proud of over the years. It is ordered by most recent, click the buttons to filter by theme. 
+            Scroll down to see some snapshots of things I have been proud of over the years. Click the buttons to filter by theme.
           </p>
         <div className="links-container">
           {links.map((link, index) => (
