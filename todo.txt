@@ -4,7 +4,7 @@ MIT EECS
 MIT Physics
 Crusoe Internship
 CEE Research
-RespiQ
+[] RespiQ
 [] Photonics AI 
 
 
@@ -12,24 +12,25 @@ Projects:
 [] Memory Center
 [] World Cup Paper
 Website - recursive 
-Fantasy Premier League AI 
+[] Fantasy Premier League AI 
 Brachiation Robot 832
-Canvas Scraper
+[] Canvas Scraper
 [] Mongolia Project 
-Small Random Projects - Armut, Birthday Party Synchronizer, 2 more (dusha? )
+Small Random Projects - Armut, Birthday Party Synchronizer, 2 more (dusha? ), pitch parameter sweep, risk roll sweep (nono should do in head). 
 
 
 Competitions: 
-Soccer 
-Chess 
+[] Soccer 
+[] Chess 
 Running / Half Marathon
-Math 
+Math .. or math goes to high school , nah prob need it here, just keep it low. Bcz we also already have teaching. Could just mention amc in hs. 
 
 Life: 
 Teaching 
-Travel 
-Reading 
+[] Travel , europe, bahamas, mongolia, redlodge map cover, armenia 
+[] Reading 
 Family
 Phi Sig (scholarship, brotherhood)
 [] Music 
-Trick Videos 
+x Trick Videos 
+x climate consciousness 

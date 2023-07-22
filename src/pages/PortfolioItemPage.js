@@ -6,7 +6,7 @@ import '../stylesheets/PortfolioItemPage.css';
 
 
 async function loadImage(item, num) {
-  const extensions = ['JPEG', 'png', 'jpg', 'jpeg', 'JPG'];
+  const extensions = ['JPEG', 'png', 'jpg', 'jpeg', 'JPG', 'PNG'];
   const results = await Promise.allSettled(
     extensions.map(ext => import(`../assets/img/about/${item.folder}/im${num}.${ext}`))
   );

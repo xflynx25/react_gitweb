@@ -47,10 +47,10 @@ function About() {
             I am a computing generalist with experience working across the entire stack, from physics research to circuits to assembly, embedded, security, web design, data, and ML. 
             I am also a math enthusiast and enjoy working on quantitative problems.
           <br/><br/>
-            My academic goals are always to increase understanding of physics, mathematics, and the ways to design systems in this world. 
-            But in my free time, I enjoy reading, programming, teaching, physical competition, performing music, taking courses, travelling, trying new things, being outside, and quality time with others. 
+            My academic and professional interests are centered around gaining a deeper understanding of physics, mathematics, and system design. I care both about the progression of the theoretical and applied sides of my fields. 
+            In my free time, I enjoy reading, programming, teaching, physical competition, performing music, taking courses, travelling, trying new things, being outside, and quality time with others. 
           <br/><br/>
-            Scroll down to see some snapshots of things I have been proud of over the years. Click the buttons to filter by theme.
+            Scroll down to see snapshots of some things I have been proud of over the years. Click the buttons to filter by theme. Select a photo to learn more.
           </p>
         <div className="links-container">
           {links.map((link, index) => (

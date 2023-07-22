@@ -1,4 +1,34 @@
 [
+
+    {
+      "title": "Photonics AI - Visiting Researcher",
+      "folder": "photonicsai",
+      "theme": "work",
+      "captions": ["A highway overlooking Yerevan on our way back from visiting several old churches and temples with other conference members. Two of my close lab partners, who work with liquid crystals, turbulence, and optical computing.", 
+                    "Three experiments at once. Due to limited resources we must find innovative ways to overlap the equipment.", 
+                    "One-Week Regional Optics conference held at our university (Yerevan State University). Researchers from India, Iran, Russia, Armenia, Europe, presented on a wide range of photonics research.", 
+                    "Stones from a 1000+ year old church in the Armenian countryside."],
+      "main_caption": "In Summer 2023, I am researching for 10 weeks at Yerevan State University, PhotonicsAI Lab (Physics Department). It is a great collection of professionals, phd students, masters students, and undergrads, specializing in the synthesis of optics and liquid crystals. The physics of liquid crystals interests us for many reasons, both with its controllability in some cases to produce useful optical effects, as well as its chaotic structure which allows us to explore turbulence. We are working on projects like arbitrary matrix multiplication, post-turbulence reconstruction, and optical-systems-on-a-chip fabrication. My project in particular is an extension of my advisor's phd work, linked below. He has shown that optical reservoir computing has some effectiveness at predicting a 1D chaotic simulation, and has experimentally verified the runtime advantages. My work (with my co-researcher Vahagn), aims to go steps further. We want to predict actual chaos (liquid crystals), not simply simulated data. This work involves understanding and exploration of liquid crystal physics, data manipulation strategies, chaotic systems analysis for metrics, and general machine learning techniques. In addition to our main goal of implementing an optical reservoir computer for real chaotic data, I am also looking into ways we can formalize/standardize these often vague chaotic machine learning challenges, and working a lot in simulation. We also ran a 10 day summer camp for university students introducing liquid crystal experimental optics, with theory and experiments.",
+      "links": [["Motivational Paper from my Advisor","https://journals.aps.org/prx/pdf/10.1103/PhysRevX.10.041037"]],
+      "local_links": [], 
+      "date": "2023-06-12"
+    },
+
+    {
+      "title": "RespiQ Internship - Breath-Tech Startup (python+bash)",
+      "folder": "respiq",
+      "theme": "work",
+      "captions": ["My room. Shared an apartment with some Spanish students and engineers.", 
+                    "Picture after bbq on the roof for meeting with advisors and investors. From left to right: Advisor/Investor, CTO, CEO, Strategist, Advisor/Investor, Me, Business.",
+                    "There is never any rest for the 3d printer. Iteration, Testing, Data. It's important. I learned being too frugal on the R&D budget should be justified strongly, as it really slows things down.", 
+                    "Coworking space. There were many cool startups at PLNT, specifically in bio, physics, and ML, and there were always cool events going on in the building." 
+                    ],
+      "main_caption": "In Summer 2022, I interned at RespiQ in Leiden, Netherlands, a startup located in the PLNT startup hub. Biomarkers in the breath exist for the detection of ailments such as food allergies, COPD flareups, and even cancers. We were prototyping a device to do such. I worked under an NDA so I cannot divulge all the information about my time there. I created from scratch a data processing pipeline and the associated software, also inventing metrics for quantifying progress. This was a difficult problem, as the assumptions we could put on the data were small and varying rapidly, so I needed to create a flexible framework, that would last them as long as possible, anticipating future development of the prototype. At the same time, I was involved with the physical design & logistics. We had a small technical team of the CTO, a mechanical engineer, myself, and electrical engineering + physics contracters. So we all had to wear multiple hats and collaborate across topics. It was an amazing technical team and we did our best, but I really got to see how important it is to have a good balance - and clear lines of communication between - the technical and business sides. ",
+      "links": [],
+      "local_links": [], 
+      "date": "2022-06-10"
+    },
+    
     {
       "title": "Memory Center (django+flutter)",
       "folder": "MemoryCenter",
@@ -7,10 +37,68 @@
                     "Profile page. All your data can be found here. Check to see how you are progressing on different items.",
                      "Google Translate input method - period seperated list.", 
                      "Study-mode, mid-transition. User just got the russian word for onion correct, and swiped right."],
-      "main_caption": "Listening to a podcast on a train back from Germany, I heard an ex-kgb agent describe his method for language learning. It captivated me, and a year later, I found time to build out an app to replicate this. Improving the memorization process can very useful beyond just language learning. I set out to solve 2 main problems with other apps like Goodnotes or Quizlet: (1) Input time should be as small as possible (2) The user should not have to worry about inventing/managing the study process. The result is a cross-platform app that has multiple card input methods. The data organization is intuitive, with groupings of topics, which can be studied simultaneously in collections. It is easy to toggle this on or off, depending on what you want to work on that day. The studying is automated, different cards will be retrieved at different rates dependent on your success. When a card is retired, it will be reintroduced after a period to make sure you did not forget. Lastly, there are social aspects, where you can collaborate on topics/collections. It is currently being beta-tested by family and close friends.",
+      "main_caption": "Listening to a podcast on a train back from Germany, I heard an ex-kgb agent describe his method for language learning. It captivated me, and a year later, I found time to build out an app to replicate this. Improving the memorization process can very useful beyond just language learning. I set out to solve 2 main problems with other apps like Goodnotes or Quizlet: (1) Input time should be as small as possible (2) The user should not have to worry about inventing/managing the study process. The result is a cross-platform app that has multiple card input methods. The data organization is intuitive, with groupings of topics, which can be studied simultaneously in collections. It is easy to toggle this on or off, depending on what you want to work on that day. The studying is automated, different cards will be retrieved at different rates dependent on your success. When a card is retired, it will be reintroduced after a period to make sure you did not forget. Lastly, there are social aspects, where you can collaborate on topics/collections. It is currently being beta-tested by family and close friends. Built in less than a month with no prior Django or Flutter knowledge.",
       "links": [],
       "local_links": [], 
       "date": "2023-07-01"
+    },
+
+    {
+      "title": "Ulaanbaatar Heating Initiative - AnthroEngineering",
+      "folder": "Mongolia",
+      "theme": "projects",
+      "captions": ["Sensor design in MUST (Mongolia University of Science and Technology)", 
+                    "Coal-fired powerplants in the background. Foreground: typical perimeter district, road conditions make distribution a complex engineering challenge.", 
+                    "Overnight stay in a ger district. Good to see the central role of the coal stove in life, how difficult it might be to get rid of the centerpiece of the house.", 
+                    "Forum with over 100 students and local residents. Fielded a productive Q&A."],
+      "main_caption": "This is a collaboration between MIT anthropology, MIT NEET CSS (climate and sustainability systems), NUM anthropology (National University of Mongolia), and MUST nuclear/chemical engineers (Mongolia University of Science and Technology). I was part of both MIT groups. The idea was to bring together an anthropological approach, to complement the engineering. This is in response to the numerous attempts to engineer Ulaanbaatar out of its coal-dependence and horrible air quality, that have failed miserably due to not taking into consideration the human factors - the side notes that are much more important than we often realize. In the fall of 2022 I took an Anthro-Engineering course, where we studied general anthropology, Mongolian anthropology, systems thinking, and engineering ideas for tackling the complex problem. My final paper is below: where we were tasked to each propose different interventions. The initial idea was to use a molten salt heat brick, heated by waste heat, and transported to the homes, in order to reduce on site coal burning. However, there are many logistical difficulties, and everyone is keeping an open mind about all the different potential avenues for change. In January, when temperatures regularly reach -40, we travelled to Mongolia for 10 days, meeting with stakeholders (government officials, entrepreneurs, community leaders, ger residents), and designing an experimental setup with the students there. In the spring, we continued to iterate the design with the help of increasing data, and maintained an ongoing collaboration with the MUST students.",
+      "links": [],
+      "local_links": ["21A_S01_Final_Project.pdf"], 
+      "date": "2023-01-15"
+    },
+
+    {
+      "title": "Bachelors Degree in Electrical Engineering and Computer Science - MIT",
+      "folder": "eecs_undergrad",
+      "theme": "work",
+      "captions": ["","","",""],
+      "main_caption": "",
+      "links": [],
+      "local_links": [], 
+      "date": "2023-06-01" 
+    },
+
+    {
+      "title": "Bachelors Degree in Physics - MIT",
+      "folder": "physics_undergrad",
+      "theme": "work",
+      "captions": ["","","",""],
+      "main_caption": "",
+      "links": [],
+      "local_links": [], 
+      "date": "2023-06-01" 
+    },
+
+    {
+      "title": "Undergraduate Researcher in Semiparametric Transportation Modeling",
+      "folder": "semiparametric",
+      "theme": "work",
+      "captions": ["","","",""],
+      "main_caption": "",
+      "links": [],
+      "local_links": [], 
+      "date": "2020-10-31" 
+    },
+
+    {
+      "title": "Data Science Intern at Crusoe Energy",
+      "folder": "crusoe",
+      "theme": "work",
+      "captions": ["","","",""],
+      "main_caption": "",
+      "links": [],
+      "local_links": [], 
+      "date": "2020-01-31" 
     },
 
     {
@@ -28,17 +116,17 @@
     },
 
     {
-      "title": "Ulaanbaatar Heating Initiative - AnthroEngineering",
-      "folder": "Mongolia",
+      "title": "Canvas Scraper (Selenium, BeautifulSoup)",
+      "folder": "canvasscraping",
       "theme": "projects",
-      "captions": ["Sensor design in MUST (Mongolia University of Science and Technology)", 
-                    "Coal-fired powerplants in the background. Foreground: typical perimeter district, road conditions make distribution a complex engineering challenge.", 
-                    "Overnight stay in a ger district. Good to see the central role of the coal stove in life, how difficult it might be to get rid of the centerpiece of the house.", 
-                    "Forum with over 100 students and local residents. Fielded a productive Q&A."],
-      "main_caption": "This is a collaboration between MIT anthropology, MIT NEET CSS (climate and sustainability systems), NUM anthropology (National University of Mongolia), and MUST nuclear/chemical engineers (Mongolia Institute of Science and Technology). I was part of both MIT groups. The idea was to bring together an anthropological approach, to complement the engineering. This is in response to the numerous attempts to engineer Ulaanbaatar out of its coal-dependence and horrible air quality, that have failed miserably due to not taking into consideration the human factors - the side notes that are much more important than we often realize. In the fall of 2022 I took an Anthro-Engineering course, where we studied general anthropology, Mongolian anthropology, systems thinking, and engineering ideas for tackling the complex problem. My final paper is below: where we were tasked to each propose different interventions. The initial idea was to use a molten salt heat brick, heated by waste heat, and transported to the homes, in order to reduce on site coal burning. However, there are many logistical difficulties, and everyone is keeping an open mind about all the different potential avenues for change. In January, when temperatures regularly reach -40, we travelled to Mongolia for 10 days, meeting with stakeholders (government officials, entrepreneurs, community leaders, ger residents), and designing an experimental setup with the students there. In the spring, we continued to iterate the design with the help of increasing data, and maintained an ongoing collaboration with the MUST students.",
+      "captions": ["Code excerpt from the beginning, where you can configure your computer, and choose what type of scraping you want done. It used to be easier to organize the folders, but canvas changed up its html tagging strategy.",
+                    "The top level of the resulting directory. Courses will be sorted by semester.",
+                    "The middle level. All the different courses you were signed up for in a semester: in this case, Spring 2021.", 
+                    "The lower level. Everything matching keywords or likely tags for a useful file you might want to keep for the future is downloaded from a particular course: in this case, 18.650 (statistics)."],
+      "main_caption": "I first wrote this in 2021, as I was scholarship chair of my fraternity at the time. I often am interested in more classes than I can manage to take, so I often take more than I can handle for as long as I can, and then finish up my learning after the semester. MIT also allows you to put classes on listener, and get the materials. I am always learning in my free time, and canvas is pretty structured, so I realized a good way to collect materials would be to pull them off canvas in an automated way. I have seen my friends manually clicking 100s of pdfs to download so they can review the material at a later date, and they have been grateful to use this tool. It required a bit of a revamp in 2023 but it was not too difficult.",
       "links": [],
-      "local_links": ["21A_S01_Final_Project.pdf"], 
-      "date": "2023-01-15"
+      "local_links": [], 
+      "date": "2021-06-12" 
     },
 
     {
@@ -52,20 +140,87 @@
       "main_caption": "I got involved with the Laptop Ensemble my senior year. We are a performance group, mostly focusing on live coding and modular synthesizers, although we are always experimenting with different technologies. Some students have done performances with light sensor instruments, vibration boxes, EEG interfacing, the theramin, and even a quad-oscillator self-built glove instrument. I learned a lot about building and debugging your own sound systems, and the art of live group performance. Notable performances include: Beautiful Machines event at ZuZu bar on Mass. Ave., the MIT Infinite Gala, a Harvard Musical Media Live Coding Concert, as well as many fun MIT concerts.",
       "links": [],
       "local_links": [], 
-      "date": "2022-01-01"
+      "date": "2023-5-20"
     },
 
     {
-      "title": "Photonics AI - Visiting Researcher",
-      "folder": "photonicsai",
-      "theme": "work",
-      "captions": ["A highway with Yerevan in the background. Two of my close lab partners, who work with liquid crystals, turbulence, and optical computing.", 
-                    "Three experiments at once. Due to limited resources we must find innovative ways to overlap the equipment.", 
-                    "One-Week Regional Optics conference held at our university (Yerevan State University). Researchers from India, Iran, Russia, Armenia, Europe, presented on a wide range of photonics research.", 
-                    "Stones from a 1000+ year old church in the Armenian countryside."],
-      "main_caption": "In Summer 2023, I am researching for 10 weeks at Yerevan State University, PhotonicsAI Lab (Physics Department). It is a great collection of professionals, phd students, masters students, and undergrads, specializing in the synthesis of optics and liquid crystals. The physics of liquid crystals interests us for many reasons, both with its controllability in some cases to produce useful optical effects, as well as its chaotic structure which allows us to explore turbulence. We are working on projects like arbitrary matrix multiplication, post-turbulence reconstruction, and optical-systems-on-a-chip fabrication. My project in particular is an extension of my advisor's phd work, linked below. He has shown that optical reservoir computing has some effectiveness at predicting a 1D chaotic simulation, and has experimentally verified the runtime advantages. My work (with my co-researcher Vahagn), aims to go steps further. We want to predict actual chaos (liquid crystals), not simply simulated data. This work involves understanding and exploration of liquid crystal physics, data manipulation strategies, chaotic systems analysis for metrics, and general machine learning techniques. In addition to our main goal of implementing an optical reservoir computer for real chaotic data, I am also looking into ways we can formalize/standardize these often vague chaotic machine learning challenges, and working a lot in simulation.",
-      "links": [["Motivational Paper from my Advisor","https://journals.aps.org/prx/pdf/10.1103/PhysRevX.10.041037"]],
+      "title": "Soccer",
+      "folder": "soccer",
+      "theme": "competitions",
+      "captions": ["Awaiting the start of the match. The MIT team was full of incredible players, the three next to me were some of the best I ever played with.",
+                    "The coaches and captains of Briar Woods High School 2019 after winning the region championship for the 3rd consecutive year.",
+                    "The last time I played with Loudoun, my club since I was 4 years old. Almost everyone in this picture went on to play in university.",
+                    "My fraternity IM team in 2019. Football is also a great way to connect with others, whether at MIT or around the world. I am grateful for the game."],
+      "main_caption": "I played soccer since I could walk. I've been a center midfielder almost the entire time, with short periods of trying other things. I played for one club my whole youth career, Loudoun. In high school, I served on the Junior Board of Directors at the club for 2 years. I enjoyed the responsibility of often taking penalties for the team. In 6th grade, I went to a 1 week training camp in London with Tottenham Hotspur, after being scouted at a tournament in MD. I also went to several US National Training Centers throughout the years. I played for my High School Varsity team for 3 years, starting and winning the District & Region Championship every year, and the State Championship my sophomore year. I captained the team senior year, and won several individual awards, such as making the all-loudoun-county, all-state, and washington post teams. I also started for the MIT team as an attacking midfielder. I struggled with injuries but still contributed, earning 1st team all-conference honors senior year. We also won the Newmac regular season championship in 2021. Soccer has provided me an avenue to express my creativity. It taught me so much about hard-work, composure, teamwork, psychology, and not counting on second-chances. It is also a great social endeavor, and I have met countless people around the world playing wherever the game pops up - whether its tennis courts near my house, a park in Montana, or the cages in Yerevan.",
+      "links": [["High School Highlights", "https://www.hudl.com/profile/7323447/John-Flynn/highlights"],["All-Conference Newmac", "https://newmacsports.com/news/2022/11/10/11_10_2022_290.aspx"],["Game Winnner vs Coast Guard + Interview", "https://youtu.be/a-s-FgZkGC4?t=156"]],
       "local_links": [], 
-      "date": "2022-01-01"
+      "date": "2022-10-31" 
+    },
+
+    {
+      "title": "Fantasy Premier League Bot",
+      "folder": "fplai",
+      "theme": "projects",
+      "captions": ["While mostly functional, we use classes for the bot itself, as we provide for different 'personalities' (parameter choices). If you zoom in, you can see there are things like decision parameters (what do do once you have point projections), modelling parameters, chip decision parameters, timing of the transfer (to take account of the market), and so on.",
+                  "An example of feature importances from a model without the most heavily engineered statistics. For predicting points in the next week, you can notice major factors are the minutes in the last game (there are many bench players, or rare players), Season Average points, and number of opponents in the next week (sometimes there are multiple games). You can also see some of my more engineered features, like one-hot encoding for scoring in different ranges (good week, great week), and at the end: the average points conceded by your opponents, to people in your position. We have hundreds of feature possibilities, but of course we do cross-validation to come up with the best size, which tends to be between 30-80. ",
+                  "Printing of the model projections for some week for sanity checking. We are predicting on the next week for team selection purposes, and on the next 6 for longer term planning decisions.",
+                  "Just the first picture I could find of an example week. You can see, it has done well to stack up on Arsenal players. These blank-gameweeks are some of the most difficult things, as humans usually approach it with precise planning, getting the 11th playing player just as that week arrives."],
+      "main_caption": "I was attracted to this fantasy game growing up due to the evident simplicity of a weekly decision problem that is extraordinarily complex. The essence of the game is you have a certain amount of money and you need to pick a team of 15 players, based on positions, and each has a price, which evolves over the year based on supply and demand of other users in the game. Each week you can make 1 change, sell and buy, or you can save your change up and have 2 for the next week. Each week you decide 11/15 to get points from that week, and also a captain to get 2x. There are also special 'chips' that you can use once, such as 'wildcard' where you can change your whole team, or triple captain where you get 3x instead of 2x. People have come up with many different strategies, and I tried my brain at it for a while and did pretty well. Some people like to use statistics, some think they pick up on intangibles about players potential by watching live. But, growing up with alphaZero, and AI always at the front of my mind, I believed that there was sufficient information in the data to outperform the humans. I wrote the main chunk during sleepless nights over the fall of 2020, and by 2021, it was fully automated (now there is a small active human component due to anti-bot measures with the front-end). It has been a super interesting challenge, requiring data engineering, modeling, coming up with decision/planning methods, search algorithms, and managing state. The modeling was chosen to be RandomForestRegression with the idea of mapping a current player to many similar past players, and since it was the easiest to start with. However, given some more time, I would like to use neural networks, and remove my algorithms for decision from point projection, and learn the game end to end. Already though, it is performing very respectably, finishing typically around 10% of all players (and this is with some severe handicaps right now). Furthermore, I know it has some promise, because it consistantly finds impressive sleepers, its main fault is making silly mistakes that all experienced humans know are fallacious.",
+      "links": [],
+      "local_links": [], 
+      "date": "2021-10-06" 
+    },
+
+    {
+      "title": "Chess",
+      "folder": "chess",
+      "theme": "competitions",
+      "captions": ["Playing hall at a chess tournament before the round starts. I love to walk around while thinking about my moves.", 
+                    "Sometimes, I like to solve chess puzzles. My chess.com puzzle rating is currently 3204 (July 2023). That's top 8000 worldwide.", 
+                    "World Open 2018. After losing in round 2, I clutched up and won 7 straight games to collect 1st / 82. My brother also did well in his section this year, so it was a great time.", 
+                    "World Open 2019. One division higher in rating, same result. 2nd round loss, but I had been here before. 1st / 165 this time. Entry fees are high and a lot of money at stake, it makes the 6 hour games super tense."],
+      "main_caption": "I began playing chess in 5th grade, my first experience was playing in a school team tournament less than a month after I learned how to play. From then until university, I would compete in 1-2 tournaments per year on average. I learned through books, videos, and playing people in coffee shops. I also went back to help coach the elementary school kids. Despite having no formal training and preparing only in short bouts, I have won several tournaments. I can also play without looking at the board.",
+      "links": [],
+      "local_links": [], 
+      "date": "2021-07-06" 
+    },
+
+    {
+      "title": "Travel",
+      "folder": "travels",
+      "theme": "life",
+      "captions": ["Slovenia: 2022. Spent the summer in Netherlands working at a startup, took a trip to meet some friends in Ljubljana. A really cool place with amazing nature. Was able to visit most of Western Europe as well.", 
+                    "Armenia: 2023. Spent the summer in Yerevan doing physics research. A great environment with many other young students, they have made me feel at home. This picture shows other masters students in my lab, as we are about to eat Khorovats (Armenian BBQ) that we made in Dilijan, over the weekend. The taste is all about the coal.", 
+                    "San Salvador, Bahamas: 2017. Sophomore year marine biology trip for my science high school. Beautiful creatures in the ocean, horrifying creatures in our shack.", 
+                    "Ulaanbaatar: January 2023. It was such a unique experience as our teachers were so well-connected in Mongolia. We seemed to meet every different type of person, and travel to every corner of Ulaanbaatar. It is very rewarding to work on such a tangible issue with those that are affected by it. There is a lot to be learned from Mongolian ingenuity. I also have overcome all fear of cold climates."],
+      "main_caption": "I love to travel, especially with purpose and not just for tourism. I have been fortunate to have the opportunity many times. You are exposed to problems and solutions outside your typical experience. You learn new modes of thought from those around you. And you get to see the amazing achievements of nature and humankind. The cover is from my journey during Covid Semester Fall 2020, marking the stops we made along the way. I lived in Montana and San Diego, with a group of about 10 other students. I am grateful of all the chances I have had to explore the world, it is something no one can take away from you. I by chance had the opportunity to travel to London for a week without family as a 11 year old, and that probably prepared me greatly. Below are some highlights.",
+      "links": [],
+      "local_links": [], 
+      "date": "2017-02-10" 
+    },
+
+    {
+      "title": "Reading",
+      "folder": "reading",
+      "theme": "life",
+      "captions": ["", 
+                    "", 
+                    "", 
+                    ""],
+      "main_caption": "Reading has always been a very big part of my life. I find it improves my temperament and my ability to concentrate. I enjoy reading from a vast range of genres, as it provides you with many modes of thinking, many possible connections, and increases creativity. It also just gives you a strong wide background to find common ground with others. Connecting with the minds of great authors, is in itself an art reason enough to spend the time reading. Below, I show some key books that influenced me and I carry with me in my heart.",
+      "links": [],
+      "local_links": [], 
+      "date": "2005-06-01"
+    },
+
+    {
+      "title": "High School Diploma - Briar Woods / AOS",
+      "folder": "highschool",
+      "theme": "work",
+      "captions": ["","","",""],
+      "main_caption": "",
+      "links": [],
+      "local_links": [], 
+      "date": "2019-06-10" 
     }
 ]

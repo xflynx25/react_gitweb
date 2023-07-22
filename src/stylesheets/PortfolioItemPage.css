@@ -92,3 +92,8 @@
 .footer-button:hover {
   transform: scale(1.15);
 }
+
+
+.portfolio-item-page p {
+  color: #b88787; /* You can adjust this color as needed */
+}
