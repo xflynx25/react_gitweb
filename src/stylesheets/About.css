@@ -22,6 +22,7 @@
   
   .about-intro {
     padding: 20px 50px; /* provides some padding on the sides */
+    text-align: justify;
   }
   
   .links-container {
@@ -30,6 +31,10 @@
     gap: 10px;
     margin-bottom: 20px;
   }
+  .links-container a {
+    color: #9ba1e7; /* Change to whatever color you want */
+  }
+  
   
   .about-divider {
     border-top: 1px dotted black;
@@ -78,5 +83,6 @@
   
 
   .about p {
-    color: #b88787; /* You can adjust this color as needed */
+    /*color: #b88787;  You can adjust this color as needed */
+    color: #b88787; 
   }

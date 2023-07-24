@@ -27,9 +27,9 @@ function About() {
   const links = [
     { name: "LinkedIn", url: "https://www.linkedin.com/in/john-flynn-45318419b/" },
     { name: "GitHub", url: "https://github.com/xflynx25" },
-    { name: "Facebook", url: "https://www.facebook.com/profile.php?id=100031441443430"},
-    { name: "Instagram", url: "https://www.instagram.com/implement"},
-    { name: "Project Youtube", url: "https://www.youtube.com/@brillantez6272/videos"},
+    //{ name: "Facebook", url: "https://www.facebook.com/profile.php?id=100031441443430"},
+    //{ name: "Instagram", url: "https://www.instagram.com/implement"},
+    { name: "Youtube of MIT Class Projects", url: "https://www.youtube.com/@brillantez6272/videos"},
   ];
 
   return (
@@ -42,15 +42,15 @@ function About() {
           <h1 className="about-name">John Flynn</h1>
           <p className="about-intro">
             Hello, I am a graduate from the MIT class of 2023 in Physics and EECS. 
-            I am currently looking for work for the coming year as well as considering my M.Eng at MIT. 
+            I am currently looking for work as well as considering my M.Eng at MIT. 
           <br/><br/>
             I am a computing generalist with experience working across the entire stack, from physics research to circuits to assembly, embedded, security, web design, data, and ML. 
             I am also a math enthusiast and enjoy working on quantitative problems.
           <br/><br/>
-            My academic and professional interests are centered around gaining a deeper understanding of physics, mathematics, and system design. I care both about the progression of the theoretical and applied sides of my fields. 
-            In my free time, I enjoy reading, programming, teaching, physical competition, performing music, taking courses, travelling, trying new things, being outside, and quality time with others. 
+            Academically, my interests have been centered around gaining a deeper understanding of physics, mathematics, and system design. I care about both the progression of the theoretical and applied sides of my fields. 
+            In my free time, some things I enjoy are programming, reading, music, art, physical competition, and the outdoors. 
           <br/><br/>
-            Scroll down to see snapshots of some things I have been proud of over the years. Click the buttons to filter by theme. Select a photo to learn more.
+            Scroll down to see snapshots of some of my work/projects over the years. Click the buttons to filter by theme. Select a photo to learn more.
           </p>
         <div className="links-container">
           {links.map((link, index) => (

@@ -11,6 +11,7 @@ import Articles from './pages/Articles';
 import Wiki from './pages/Wiki';
 import Article from './components/Article';
 import PortfolioItemPage from './pages/PortfolioItemPage';
+import ScrollToTop from './components/ScrollToTop';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <BrowserRouter>
         <Taskbar />
         
+        <ScrollToTop />
         <Routes>
           <Route path="/game" element={<Home />}></Route>
           <Route path="/" element={<About />}></Route>

@@ -1,0 +1,66 @@
+[
+    {
+    "title": "Reading",
+    "folder": "reading",
+    "theme": "life",
+    "captions": ["", 
+                  "", 
+                  "", 
+                  ""],
+    "main_caption": ["Reading has always been a very big part of my life. I find it improves my temperament and my ability to concentrate. I enjoy reading from a vast range of genres, as it provides you with many modes of thinking, many possible connections, and increases creativity. It also just gives you a strong wide background to find common ground with others. Connecting with the minds of great authors, is in itself an art reason enough to spend the time reading. Below, I show some key books that influenced me and I carry with me in my heart."],
+    "links": [],
+    "local_links": [], 
+    "date": "2005-06-01"
+  },
+
+  {
+    "title": "Travel",
+    "folder": "travels",
+    "theme": "life",
+    "captions": ["Slovenia: 2022. Spent the summer in Netherlands working at a startup, took a trip to meet some friends in Ljubljana. A really cool place with amazing nature. Was able to visit most of Western Europe as well.", 
+                  "Armenia: 2023. Spent the summer in Yerevan doing physics research. A great environment with many other young students, they have made me feel at home. This picture shows other masters students in my lab, as we are about to eat Khorovats (Armenian BBQ) that we made in Dilijan, over the weekend. The taste is all about the coal.", 
+                  "San Salvador, Bahamas: 2017. Sophomore year marine biology trip for my science high school. Beautiful creatures in the ocean, horrifying creatures in our shack.", 
+                  "Ulaanbaatar: January 2023. It was such a unique experience as our teachers were so well-connected in Mongolia. We seemed to meet every different type of person, and travel to every corner of Ulaanbaatar. It is very rewarding to work on such a tangible issue with those that are affected by it. There is a lot to be learned from Mongolian ingenuity. I also have overcome all fear of cold climates."],
+    "main_caption": ["I love to travel, especially with purpose and not just for tourism. I have been fortunate to have the opportunity many times. You are exposed to problems and solutions outside your typical experience. You learn new modes of thought from those around you. And you get to see the amazing achievements of nature and humankind. The cover is from my journey during Covid Semester Fall 2020, marking the stops we made along the way. I lived in Montana and San Diego, with a group of about 10 other students. I am grateful of all the chances I have had to explore the world, it is something no one can take away from you. I by chance had the opportunity to travel to London for a week without family as a 11 year old, and that probably prepared me greatly. Below are some highlights."],
+    "links": [],
+    "local_links": [], 
+    "date": "2017-02-10" 
+  }
+  ["High School Highlights", "https://www.hudl.com/profile/7323447/John-Flynn/highlights"],
+
+  
+
+    {
+      "title": "Bachelors Degree in Electrical Engineering and Computer Science - MIT",
+      "folder": "eecs_undergrad",
+      "theme": "work",
+      "captions": ["","","",""],
+      "main_caption": ["Coming Soon"],
+      "links": [],
+      "local_links": [], 
+      "date": "2023-06-01" 
+    },
+
+    {
+      "title": "Bachelors Degree in Physics - MIT",
+      "folder": "physics_undergrad",
+      "theme": "work",
+      "captions": ["","","",""],
+      "main_caption": ["Coming Soon"],
+      "links": [],
+      "local_links": [], 
+      "date": "2023-06-01" 
+    },
+    
+
+    {
+      "title": "Underactuated Robotics Final Project: Brachiation Robot",
+      "folder": "underactuated",
+      "theme": "projects",
+      "captions": ["","","",""],
+      "main_caption": [""],
+      "links": [],
+      "local_links": [], 
+      "date": "2022-05-30" 
+    },
+]

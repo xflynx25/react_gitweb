@@ -8,7 +8,7 @@
 
     { "classname": "Intro Materials Science and Engineering", "year": 2020, "subject": "3-Unit", "how_complete": "Complete", "number": 3.001 },
     { "classname": "Intro Programming in Python", "year": 2020, "subject": "CS", "how_complete": "Prior Credit", "number": 6.0001 },
-    { "classname": "Cicuits and Electronics", "year": 2020, "subject": "EE", "how_complete": "Complete", "number": 6.002 },
+    { "classname": "Circuits and Electronics", "year": 2020, "subject": "EE", "how_complete": "Complete", "number": 6.002 },
     { "classname": "Fundamentals of Programming", "year": 2020, "subject": "CS", "how_complete": "Complete", "number": 6.009 },
     { "classname": "Physics II - Electromagnetism", "year": 2020, "subject": "Physics", "how_complete": "Complete", "number": 8.022 },
     { "classname": "Signal Processing", "year": 2020, "subject": "EE", "how_complete": "Complete", "number": 6.003 },

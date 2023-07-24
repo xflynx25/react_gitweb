@@ -1,9 +1,9 @@
 Work: 
-AOS, High School 
-MIT EECS 
-MIT Physics
-Crusoe Internship
-CEE Research
+x AOS, High School 
+.. MIT EECS  -- Brachiation Robot 832
+.. MIT Physics
+.. Crusoe Internship
+.. CEE Research
 [] RespiQ
 [] Photonics AI 
 
@@ -11,12 +11,11 @@ CEE Research
 Projects:
 [] Memory Center
 [] World Cup Paper
-Website - recursive 
+x Website - recursive 
 [] Fantasy Premier League AI 
-Brachiation Robot 832
 [] Canvas Scraper
 [] Mongolia Project 
-Small Random Projects - Armut, Birthday Party Synchronizer, 2 more (dusha? ), pitch parameter sweep, risk roll sweep (nono should do in head). 
+? maybesomeday ? Small Random Projects - Armut, Birthday Party Synchronizer, 2 more (dusha? )
 
 
 Competitions: 
@@ -26,11 +25,10 @@ Running / Half Marathon
 Math .. or math goes to high school , nah prob need it here, just keep it low. Bcz we also already have teaching. Could just mention amc in hs. 
 
 Life: 
-Teaching 
+Teaching  -- Phi Sig (scholarship, brotherhood)
 [] Travel , europe, bahamas, mongolia, redlodge map cover, armenia 
 [] Reading 
-Family
-Phi Sig (scholarship, brotherhood)
+x Family
 [] Music 
 x Trick Videos 
 x climate consciousness 

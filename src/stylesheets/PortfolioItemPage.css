@@ -44,9 +44,29 @@
 }
 
 .main-caption {
+  text-align: left;
   font-size: 1.5em;
   padding: 15px 40px;
 }
+
+.show-more-button {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 20px;
+  font-size: 16px;
+  text-align: center;
+  color: #fff;
+  background-color: #46709d;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.show-more-button:hover {
+  background-color: #0056b3;
+}
+
 
 .embeddings {
   width: 80%;
@@ -55,6 +75,9 @@
 
 .links-container {
   padding: 10px 0px 10px 0px;
+}
+.links-container a {
+  color: #9ba1e7; /* Change to whatever color you want */
 }
 
 
@@ -91,6 +114,13 @@
   }
 .footer-button:hover {
   transform: scale(1.15);
+}
+
+.nav-title {
+  max-width: 300px;  /* set to any width that suits your design */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 

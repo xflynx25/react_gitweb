@@ -25,6 +25,12 @@ function Taskbar() {
       <Link to="/academics" className={getLinkClassName('/academics')}>
         Academics
       </Link>
+    </div>
+  );
+}
+
+export default Taskbar;
+/*
       <Link to="/articles" className={getLinkClassName('/articles')}>
         Articles
       </Link>
@@ -36,3 +42,4 @@ function Taskbar() {
 }
 
 export default Taskbar;
+*/
