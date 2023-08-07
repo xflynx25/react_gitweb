@@ -43,7 +43,7 @@ function PortfolioItemPage() {
       setLoading(true);
       
       if (item) {
-        Promise.all([0, 1, 2, 3].map(num => loadImage(item, num)))
+        Promise.all([0, 1, 2, 3, 4, 5, 6, 7].map(num => loadImage(item, num)))
           .then(paths => {
             setImages(paths);
             setLoading(false);

@@ -108,6 +108,69 @@
     },
 
     {
+      "title": "Bachelors Degree in Physics - MIT",
+      "folder": "physics_undergrad",
+      "theme": "work",
+      "captions": ["Finding the maximum safe current for the Frank-Hertz experiment in 8.13",
+                    "The current begins to take off once the gas can be ionized. This is a feature of the complex 3 voltage potential scheme in the chamber.",
+                    "X-ray experiment. The left is a detector, the right is a radioactive box. We performed several experiments, the one shown here was in measuring attenuation coefficients of different metals. We also were able to identify composition of some old coins.",
+                    "Frank-Hertz setup. From left to right: temperature monitor, multimeter, main chamber, voltage control box, anode current measurement",
+                    "Flexible peak detection I wrote, looks a bit strange when graphed due to weird discretization",
+                    "Angular dependence of muon flux, we get good agreement with theory",
+                    "Some work from 8.223 (Classical Mechanics II)",
+                    "Some work from 8.05 (Quantum Mechanics II). The beginning of a long problem on squeeze states."],
+      "main_caption": ["I really enjoyed my physics degree. At MIT we are especially fortunate to have professors lead the recitations. Also, the major is small enough that we get to learn a lot from one another. Some of my favorite classes were 8.012, 8.022, 8.033, 8.223, 8.05, and 8.13. I learned a lot from these. One funny anecdote is that in 8.05 my recitation instructor Liang Fu decided we would instead learn condensed matter theory rather than reviewing quantum."],
+      "links": [],
+      "local_links": [], 
+      "date": "2023-06-01" 
+    }, 
+
+    {
+      "title": "Bachelors Degree in Electrical Engineering and Computer Science - MIT",
+      "folder": "eecs_undergrad",
+      "theme": "work",
+      "captions": ["Picture from final project in computer vision. We were attempting to create a multimodal neural network that would generate ambient sound given some pictures, with applications for the hard of sight, virtual reality, art, and lossy data reconstruction. This is outlining the basics of the architecture - it is inspired by DALLE.",
+                    "Project in 6.08 (embedded systems). We implemented a vote chess game. I actually designed these pieces from lines, circles, and rectangles, as I didn't realize we were allowed to import pictures. I also contributed with the rest of the design, particularly the front-end but also the vote backend logic.",
+                    "Board wiring for 6.115 (microcontrollers)",
+                    "Project in microcontrollers class. I allowed a user to input messages on a keypad, and these would be encoded and written to the psoc using the light on the cactus. Then, the car could be driven to its destination, and the messages could be decoded. The purpose is to make it difficult to notice when you are sending secret messages, theoretically this would go on a robot looking like a mouse or small bug.",
+                    "Designing my own audiovisual instrument in interactive music systems",
+                    "We have achieved magnetic levitation in controls class (6.320)"],
+      "main_caption": ["I was fortunate to have the opportunity to study in the 6-2 program, and touch the hardware, software, and mathematical sides of computing. I am interested in how we do computation, regardless of the substrate, and it has given me a strong background to approach design. I got to work on many projects where I learned technical skills, communication, teamwork, and how to build things fast. A few snapshots are below."],
+      "links": [],
+      "local_links": [], 
+      "date": "2023-06-01" 
+    },
+    
+
+    {
+      "title": "Underactuated Robotics Final Project: Brachiation Robot",
+      "folder": "underactuated",
+      "theme": "projects",
+      "captions": ["Geometric derivation of conditions for an inclined limit cycle",
+                    "Formulation of the system and variables. Notice the back arm ends up in front.",
+                    "An example from simulation of the monkey tackling the upwards bars",
+                    "Images of the straight swing for different models of the actuation."],
+      "main_caption": ["In 6.832 (underactuated robotics) I worked on trajectory optimization of brachiation on bars with my partner Kaleb Blake. Essentially, we were studying optimal swing trajectories on 'monkey bars' - flat, sloped upwards, and sloped downwards. The cost function combined time and actuator effort. We were able to find limit cycles for different incline angles, as well as for different models of the actuators (shoulder vs arms vs upside down walking). We saw that the optimized trajectories had similar features to what we see from monkeys or humans swinging.  "],
+      "links": [],
+      "local_links": [], 
+      "date": "2022-05-30" 
+    },
+
+    {
+      "title": "Supergroups White Paper",
+      "folder": "Supergroups",
+      "theme": "projects",
+      "captions": ["An example of how the group stage is organized",
+                    "The full tournament setup",
+                     "How a sample group stage could play out", 
+                     "Simulated probabilities for the final group positions, based on historical performances in recent World Cups."],
+      "main_caption": ["In Fall 2022, while FIFA was debating in which way should they break the symmetry for the expanded 48 team World Cup 2026, my friend and I struck upon an elegant solution. There exists a natural extension for 3*2^N tournaments, that maintains several important properties of the 2^N tournaments which we are so used to. When FIFA went ahead with a proposition that is sure to encourage undesirable behavior like match fixing and temporal advantages - we wrote this paper, and have since been trying to promote it. We also believe there is a ripe field of combinatorics for sports and competitions that we hope will blossom in the near future."],
+      "links": [["Read the paper", "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.dropbox.com%2Fs%2F07wialzpkpmo69r%2FSupergroupsPaper.pdf%3Ffbclid%3DIwAR1Yp5ivJMwqOwIrm67NlU9kRJjMh2NHDX29ZVmfaRsBRtnsisakDgEW8xk&h=AT2dtlIOQDmR00i4OOwNjH_sK6AQaer0HKlrqpwQEUOnrEOQyRV7_QGaVKxkLqdizyZI3FE6PQRVsaGWxZ0R-GFcg_FugKGgM96h8Pa2ArUNWnjGrNEuOlDxln_hswXNlZpu&__tn__=-UK-R&c[0]=AT1by3bAQrpzzzWFAT1bChZ3Fa9LZmNhPubcCGILV6ZBjrEy6lxaJkqEFQnePFfa7sZIVbt7Lov-1UyjurEL7rMPNDsjkELowj2ac6OBUOAYAb3hl3Ryhi8sBHx4uPxmgqMFOeosyIw6jGc0nbw2eVKllOr1-Nv9jdBNRPjBLv0U8khjSvc"]],
+      "local_links": [], 
+      "date": "2023-06-28"
+    },
+
+    {
       "title": "Teaching / Mentoring",
       "folder": "teaching",
       "theme": "life",
@@ -159,19 +222,5 @@
       "links": [],
       "local_links": [], 
       "date": "2019-07-06" 
-    },
-
-    {
-      "title": "Supergroups White Paper",
-      "folder": "Supergroups",
-      "theme": "projects",
-      "captions": ["An example of how the group stage is organized",
-                    "The full tournament setup",
-                     "How a sample group stage could play out", 
-                     "Simulated probabilities for the final group positions, based on historical performances in recent World Cups."],
-      "main_caption": ["In Fall 2022, while FIFA was debating in which way should they break the symmetry for the expanded 48 team World Cup 2026, my friend and I struck upon an elegant solution. There exists a natural extension for 3*2^N tournaments, that maintains several important properties of the 2^N tournaments which we are so used to. When FIFA went ahead with a proposition that is sure to encourage undesirable behavior like match fixing and temporal advantages - we wrote this paper, and have since been trying to promote it. We also believe there is a ripe field of combinatorics for sports and competitions that we hope will blossom in the near future."],
-      "links": [["Read the paper", "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.dropbox.com%2Fs%2F07wialzpkpmo69r%2FSupergroupsPaper.pdf%3Ffbclid%3DIwAR1Yp5ivJMwqOwIrm67NlU9kRJjMh2NHDX29ZVmfaRsBRtnsisakDgEW8xk&h=AT2dtlIOQDmR00i4OOwNjH_sK6AQaer0HKlrqpwQEUOnrEOQyRV7_QGaVKxkLqdizyZI3FE6PQRVsaGWxZ0R-GFcg_FugKGgM96h8Pa2ArUNWnjGrNEuOlDxln_hswXNlZpu&__tn__=-UK-R&c[0]=AT1by3bAQrpzzzWFAT1bChZ3Fa9LZmNhPubcCGILV6ZBjrEy6lxaJkqEFQnePFfa7sZIVbt7Lov-1UyjurEL7rMPNDsjkELowj2ac6OBUOAYAb3hl3Ryhi8sBHx4uPxmgqMFOeosyIw6jGc0nbw2eVKllOr1-Nv9jdBNRPjBLv0U8khjSvc"]],
-      "local_links": [], 
-      "date": "2023-06-28"
     }
-]
+  ]

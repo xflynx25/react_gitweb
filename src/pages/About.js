@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import '../stylesheets/About.css';
-import img1 from '../assets/img/about/img1.JPEG';
+import img1 from '../assets/img/about/img1.jpg';
 import img2 from '../assets/img/about/img2.JPEG';
 import PortfolioItem from '../components/PortfolioItem';
 import portfolioItems from '../assets/about.json';
@@ -25,13 +25,15 @@ function About() {
 
 
   const links = [
-    { name: "LinkedIn", url: "https://www.linkedin.com/in/john-flynn-45318419b/" },
+    { name: "LinkedIn (don't use much)", url: "https://www.linkedin.com/in/john-flynn-45318419b/" },
+    { name: "Handshake", url: "https://app.joinhandshake.com/stu/users/19751486"},
     { name: "GitHub", url: "https://github.com/xflynx25" },
     //{ name: "Facebook", url: "https://www.facebook.com/profile.php?id=100031441443430"},
     //{ name: "Instagram", url: "https://www.instagram.com/implement"},
-    { name: "Youtube of MIT Class Projects", url: "https://www.youtube.com/@brillantez6272/videos"},
+    { name: "Youtube of MIT Class Projects", url: "https://www.youtube.com/@brillantez6272/videos"}
   ];
 
+  //However, I am still open to consider job opportunities. 
   return (
     <div className="about">
       <div className="about-header">
@@ -42,7 +44,8 @@ function About() {
           <h1 className="about-name">John Flynn</h1>
           <p className="about-intro">
             Hello, I am a graduate from the MIT class of 2023 in Physics and EECS. 
-            I am currently looking for work as well as considering my M.Eng at MIT. 
+	    For the upcoming year, I am most likely doing my M.Eng in EECS (focus in AI). 
+	
           <br/><br/>
             I am a computing generalist with experience working across the entire stack, from physics research to circuits to assembly, embedded, security, web design, data, and ML. 
             I am also a math enthusiast and enjoy working on quantitative problems.
