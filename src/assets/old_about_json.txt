@@ -64,3 +64,13 @@
       "date": "2022-05-30" 
     },
 ]
+
+
+
+            I am a computing generalist with experience working across the entire stack, from physics research to circuits to assembly, embedded, security, web design, data, and ML. 
+            I am also a math enthusiast and enjoy working on quantitative problems.
+          <br/><br/>
+            Academically, my interests have been centered around gaining a deeper understanding of physics, mathematics, and system design. I care about both the progression of the theoretical and applied sides of my fields. 
+            In my free time, some things I enjoy are programming, reading, music, art, physical competition, and the outdoors. 
+
+  If you can't build it you don't know it, if you don't understand it you can't build it. 

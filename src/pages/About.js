@@ -7,7 +7,7 @@ import portfolioItems from '../assets/about.json';
 
 
 function About() {
-  const themes = ['all: relevance', 'all: recent', 'work', 'projects', 'competitions', 'life'];
+  const themes = ['all: default', 'all: recent', 'work', 'projects', 'competitions', 'life'];
   const [activeTheme, setActiveTheme] = useState('all: relevance');
   const [filteredItems, setFilteredItems] = useState(portfolioItems);
 
@@ -25,12 +25,12 @@ function About() {
 
 
   const links = [
-    { name: "LinkedIn (don't use much)", url: "https://www.linkedin.com/in/john-flynn-45318419b/" },
-    { name: "Handshake", url: "https://app.joinhandshake.com/stu/users/19751486"},
+    { name: "Youtube of MIT Class Projects", url: "https://www.youtube.com/@brillantez6272/videos"},
     { name: "GitHub", url: "https://github.com/xflynx25" },
+    { name: "Handshake", url: "https://app.joinhandshake.com/stu/users/19751486"},
     //{ name: "Facebook", url: "https://www.facebook.com/profile.php?id=100031441443430"},
     //{ name: "Instagram", url: "https://www.instagram.com/implement"},
-    { name: "Youtube of MIT Class Projects", url: "https://www.youtube.com/@brillantez6272/videos"}
+    { name: "LinkedIn", url: "https://www.linkedin.com/in/john-flynn-45318419b/" }
   ];
 
   //However, I am still open to consider job opportunities. 
@@ -43,15 +43,13 @@ function About() {
         <div>
           <h1 className="about-name">John Flynn</h1>
           <p className="about-intro">
-            Hello, I am a graduate from the MIT class of 2023 in Physics and EECS. 
-	    For the upcoming year, I am most likely doing my M.Eng in EECS (focus in AI). 
-	
+            Hello, I am a graduate from the MIT class of 2023 in Physics and EECS, 
+            currently doing my M.Eng in EECS (focus in AI) with the MIT Media Lab.
+            I'll graduate in Summer 2024.
           <br/><br/>
-            I am a computing generalist with experience working across the entire stack, from physics research to circuits to assembly, embedded, security, web design, data, and ML. 
-            I am also a math enthusiast and enjoy working on quantitative problems.
-          <br/><br/>
-            Academically, my interests have been centered around gaining a deeper understanding of physics, mathematics, and system design. I care about both the progression of the theoretical and applied sides of my fields. 
-            In my free time, some things I enjoy are programming, reading, music, art, physical competition, and the outdoors. 
+
+          Relentlessly pursuing automation and better abstractions for attacking hard problems. 
+          
           <br/><br/>
             Scroll down to see snapshots of some of my work/projects over the years. Click the buttons to filter by theme. Select a photo to learn more.
           </p>
